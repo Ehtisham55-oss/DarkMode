@@ -1,0 +1,19 @@
+.btn1{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10PX;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    border-radius: 8px;
+    border: none;
+    padding: 10PX;
+}
+/*.heading-1{
+    color: grey;
+   
+}*/
